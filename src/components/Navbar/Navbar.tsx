@@ -11,8 +11,8 @@ const links=[
     },
     {
         id:2,
-        title:"Protfolio",
-        url:'/protfolio'
+        title:"Portfolio",
+        url:'/portfolio'
     },
     {
         id:3,
